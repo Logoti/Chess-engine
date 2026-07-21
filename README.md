@@ -37,6 +37,8 @@ A proposta explora a interseção entre:
 
 ---
 
+PARA ATIVAR: ALT + A . EX: SITE CHESS.COM
+
 # ✨ Principais Funcionalidades
 
 ## 🧠 Cognitive Decision Layer
