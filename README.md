@@ -39,6 +39,23 @@ A proposta explora a interseção entre:
 
 PARA ATIVAR: ALT + A . EX: SITE CHESS.COM
 
+# 🧬 Origem do Projeto
+
+O **Ghost Layer Absolute** é uma evolução arquitetural baseada no projeto originalmente denominado **ChessCheat**.
+
+A base inicial do projeto foi estruturada no repositório:
+
+- **Projeto original:** ChessCheat
+- **Versão inicial:** `1.0.0`
+- **Dependência principal:** `stockfish.wasm`
+- **Repositório de origem:** `Eugenenoble2005/chesscheat`
+
+A partir dessa base, o projeto evoluiu para uma arquitetura experimental focada em **modelagem cognitiva, comportamento humano simulado e sistemas híbridos de decisão**, dando origem ao conceito atual do **Ghost Layer Absolute**.
+
+O método original de ativação por atalho de teclado também foi preservado e adaptado:
+
+
+
 # ✨ Principais Funcionalidades
 
 ## 🧠 Cognitive Decision Layer
