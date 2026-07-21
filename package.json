@@ -1,5 +1,5 @@
 {
-  "name": "chesscheat",
+  "name": "chesshelper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,3 +20,4 @@
     "stockfish.wasm": "^0.10.0"
   }
 }
+// helloe
