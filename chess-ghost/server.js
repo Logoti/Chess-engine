@@ -4,7 +4,7 @@ const { spawn } = require('child_process');
 
 const wss = new WebSocketServer({ port: 8081 });
 
-console.log("[Servidor] Rodando na porta 8080. Aguardando conexão do Fantasma...");
+console.log("[Servidor] Rodando na porta 8081. Aguardando conexão do Fantasma...");
 
 wss.on('connection', (ws) => {
     console.log("[Servidor] Conexão Fantasma estabelecida!");
