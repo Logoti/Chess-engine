@@ -1,0 +1,19 @@
+# Executáveis (Stockfish)
+*.exe
+
+# Node
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Configurações privadas
+.env
